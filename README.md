@@ -1,8 +1,7 @@
 # My Terraform example project
 
 ## How to install terraform in ubuntu
-[![How to install terraform in Ubuntu](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)](How to install terraform in Ubuntu)
-
+[How to install terraform in Ubuntu](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
 
 ## Quickly Start..
 1. Initialize 🚀 
