@@ -1,4 +1,5 @@
 # My Project Demo
+[go to my Resume ٩(ˊᗜˋ*)و ♡](https://fredyah.github.io/fredresume/)
 
 ## Aboue Me
 ```
