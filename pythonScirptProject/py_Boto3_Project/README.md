@@ -1,4 +1,4 @@
-# My Python Boto3 example project
+# My Python Boto3 for EKS example project
 
 ## Quickly Start..
 1. requirement install 🚀 
